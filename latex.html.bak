@@ -16,16 +16,7 @@
 </head>
 <body>
 <div style="text-align: center"><h1>文档</h1>
-<code>
-if(c>2)
-{
-	do1;
-}
-else
-{
-	do2;
-}
-</code>
+还没做完
 </div>
 </body>
 </html>
