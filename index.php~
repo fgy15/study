@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Somthing about study</title>
+<meta name="generator" content="Bluefish 2.2.4" >
+<meta name="author" content="fuguoyin" >
+<meta name="date" content="2013-05-03T21:37:56+0800" >
+<meta name="copyright" content="">
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8">
+<meta http-equiv="content-style-type" content="text/css">
+<meta http-equiv="expires" content="0">
+</head>
+<body>
+<div align="center" class="menu">
+<?php include 'menu.php'; ?>
+</div>
+<div style="text-align: center">
+<h1>感谢老师光临网站</h1>
+<br />
+<a href="tianxian.php" title="实验报告">实验报告</a>
+<br />
+</DIV>
+<br />
+
+</div>
+<br /><br /><br />
+
+<div style="text-align: center">
+<?php
+//显示时间
+echo (date("Y-m-d l h:i:s A"));
+?></div>
+</body>
+</html>
